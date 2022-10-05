@@ -5,3 +5,5 @@ draft: false
 tags: ['personal']
 ---
 This is my second post.
+
+Link to [fourth](../fourth).
