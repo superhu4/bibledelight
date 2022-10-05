@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>update on Bible Delight</title>
+    <link>http://bibledelight.netlify.app/tags/update/</link>
+    <description>Recent content in update on Bible Delight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Sep 2022 21:08:30 -0400</lastBuildDate><atom:link href="http://bibledelight.netlify.app/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>http://bibledelight.netlify.app/posts/another-post/</link>
+      <pubDate>Mon, 26 Sep 2022 21:08:30 -0400</pubDate>
+      
+      <guid>http://bibledelight.netlify.app/posts/another-post/</guid>
+      <description>Another post</description>
+    </item>
+    
+    <item>
+      <title>Autobiography</title>
+      <link>http://bibledelight.netlify.app/pages/autobiography/</link>
+      <pubDate>Mon, 26 Sep 2022 20:01:38 -0400</pubDate>
+      
+      <guid>http://bibledelight.netlify.app/pages/autobiography/</guid>
+      <description>This is autobio.</description>
+    </item>
+    
+  </channel>
+</rss>

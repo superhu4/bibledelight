@@ -1,48 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Front page on Bible Delight</title>
-    <link>http://bibledelight.netlify.app/</link>
-    <description>Recent content in Front page on Bible Delight</description>
+    <title>personal on Bible Delight</title>
+    <link>http://bibledelight.netlify.app/tags/personal/</link>
+    <description>Recent content in personal on Bible Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Oct 2022 07:34:35 -0400</lastBuildDate><atom:link href="http://bibledelight.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Seventh</title>
-      <link>http://bibledelight.netlify.app/posts/seventh/</link>
-      <pubDate>Wed, 05 Oct 2022 07:34:35 -0400</pubDate>
-      
-      <guid>http://bibledelight.netlify.app/posts/seventh/</guid>
-      <description>This is another new post.</description>
-    </item>
-    
-    <item>
-      <title>Sixth</title>
-      <link>http://bibledelight.netlify.app/posts/sixth/</link>
-      <pubDate>Tue, 04 Oct 2022 17:34:35 -0400</pubDate>
-      
-      <guid>http://bibledelight.netlify.app/posts/sixth/</guid>
-      <description>This is a new post.</description>
-    </item>
-    
-    <item>
-      <title>Fifth</title>
-      <link>http://bibledelight.netlify.app/posts/fifth/</link>
-      <pubDate>Tue, 04 Oct 2022 13:34:35 -0400</pubDate>
-      
-      <guid>http://bibledelight.netlify.app/posts/fifth/</guid>
-      <description>This is a new post.</description>
-    </item>
-    
-    <item>
-      <title>Fourth</title>
-      <link>http://bibledelight.netlify.app/posts/fourth/</link>
-      <pubDate>Wed, 28 Sep 2022 13:34:35 -0400</pubDate>
-      
-      <guid>http://bibledelight.netlify.app/posts/fourth/</guid>
-      <description>This is a new post.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Sep 2022 22:10:24 -0400</lastBuildDate><atom:link href="http://bibledelight.netlify.app/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third</title>
       <link>http://bibledelight.netlify.app/posts/third/</link>
@@ -96,15 +60,6 @@ Link to fourth.</description>
       
       <guid>http://bibledelight.netlify.app/pages/test/</guid>
       <description>This is the about page.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://bibledelight.netlify.app/posts/my-first-post/</link>
-      <pubDate>Mon, 26 Sep 2022 17:14:56 -0400</pubDate>
-      
-      <guid>http://bibledelight.netlify.app/posts/my-first-post/</guid>
-      <description>A New Post This is a new post.</description>
     </item>
     
   </channel>
