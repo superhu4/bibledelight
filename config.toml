@@ -1,7 +1,7 @@
 baseURL = 'http://bibledelight.netlify.app/'
 languageCode = 'en-us'
 title = 'Bible Delight'
-theme = 'archie'
+theme = 'papermod'
 [params]
 	datesinlist=1
 	mainSections = ['posts']
