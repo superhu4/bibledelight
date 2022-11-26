@@ -5,4 +5,4 @@ This is in "_index.md"
 
 Hello world
 
-![shop image](/shop)
+![shop image](/shop.png)
