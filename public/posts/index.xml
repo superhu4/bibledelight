@@ -6,7 +6,34 @@
     <description>Recent content in Front page for Posts on Bible Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Oct 2022 07:34:35 -0400</lastBuildDate><atom:link href="http://bibledelight.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 07:54:35 -0400</lastBuildDate><atom:link href="http://bibledelight.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenth</title>
+      <link>http://bibledelight.netlify.app/posts/tenth/</link>
+      <pubDate>Sat, 05 Nov 2022 07:54:35 -0400</pubDate>
+      
+      <guid>http://bibledelight.netlify.app/posts/tenth/</guid>
+      <description>This is last tenth.</description>
+    </item>
+    
+    <item>
+      <title>Ninth</title>
+      <link>http://bibledelight.netlify.app/posts/ninth/</link>
+      <pubDate>Wed, 05 Oct 2022 07:54:35 -0400</pubDate>
+      
+      <guid>http://bibledelight.netlify.app/posts/ninth/</guid>
+      <description>This is another new post.</description>
+    </item>
+    
+    <item>
+      <title>Eighth</title>
+      <link>http://bibledelight.netlify.app/posts/eighth/</link>
+      <pubDate>Wed, 05 Oct 2022 07:34:35 -0400</pubDate>
+      
+      <guid>http://bibledelight.netlify.app/posts/eighth/</guid>
+      <description>This is another new post.</description>
+    </item>
+    
     <item>
       <title>Seventh</title>
       <link>http://bibledelight.netlify.app/posts/seventh/</link>
