@@ -11,17 +11,15 @@ frontmatter:
     - lastmod
   lastmod:
     - lastmod
-    - :git
     - date
     - publishDate
 params:
+  description: Lists and evaluates Bible reading plans and trends in Bible intake.
   datesinlist: 1
   disableThemeToggle: false
   ShowReadingTime: false
   mainSections:
-    - blog
-    - posts1
-
+    - posts
 
 related:
   includeNewer: true
@@ -32,8 +30,6 @@ related:
       weight: 100
     - name: date
       weight: 10
-      
-      
       
 menu:
   main:
