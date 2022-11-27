@@ -5,7 +5,9 @@ This is in "_index.md"
 
 Hello world
 
-![shop image](/shop.webp)
+
+123
+
+{{< figure src="/shop.webp#center" caption="This is a caption" align="center">}}
 
 
-{{< figure src="/shop.webp" caption="This is a caption" >}}

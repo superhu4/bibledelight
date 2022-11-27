@@ -1,0 +1,47 @@
+baseURL: http://bibledelight.netlify.app/
+languageCode: en-us
+title: Bible Delight
+theme: papermod
+enableGitInfo: true
+paginate: 5
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  lastmod:
+    - lastmod
+    - :git
+    - date
+    - publishDate
+params:
+  datesinlist: 1
+  disableThemeToggle: false
+  ShowReadingTime: false
+  mainSections:
+    - blog
+    - posts1
+
+
+related:
+  includeNewer: true
+  threshold: 75
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 100
+    - name: date
+      weight: 10
+      
+      
+      
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20

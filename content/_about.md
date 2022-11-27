@@ -9,4 +9,4 @@ Draft: false
 ---
 This is the about page. Hello.
 
-![shop image](/shop.webp)
+
