@@ -6,4 +6,4 @@ draft: false
 This is a new post.
 
 
-![shop image](/shop.png)
+![shop image](/shop.webp)

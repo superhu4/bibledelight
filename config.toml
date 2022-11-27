@@ -2,8 +2,25 @@ baseURL = 'http://bibledelight.netlify.app/'
 languageCode = 'en-us'
 title = 'Bible Delight'
 theme = 'papermod'
+enableGitInfo = true
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+
 [params]
 	datesinlist=1
 	mainSections = ['posts']
+	
+[related]
+  includeNewer = true
+  threshold = 75
+  toLower = false
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'date'
+  weight = 10
 
 

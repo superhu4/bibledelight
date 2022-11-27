@@ -5,4 +5,7 @@ This is in "_index.md"
 
 Hello world
 
-![shop image](/shop.png)
+![shop image](/shop.webp)
+
+
+{{< figure src="/shop.webp" caption="This is a caption" >}}
