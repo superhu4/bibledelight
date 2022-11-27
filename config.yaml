@@ -41,3 +41,11 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 75
+  resampleFilter: Box

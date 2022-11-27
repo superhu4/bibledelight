@@ -8,6 +8,5 @@ Hello world
 
 123
 
-{{< figure src="/shop.webp#center" caption="This is a caption" align="center" widdth="310" height="268">}}
-
+{{< figure src="/shop.webp" caption="This is a caption" align="center" width="320" height="268">}}
 
