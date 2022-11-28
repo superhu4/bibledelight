@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
 
-site_url: https://example.com
+site_url: https://bibledelight.netlify.app
 
 media_folder: static
 
