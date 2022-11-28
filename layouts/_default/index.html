@@ -39,6 +39,12 @@
 {{- $pages := union .RegularPages .Sections }}
 
 {{- if .IsHome }}
+
+
+{{/*made edit here; compare with list.html in template folder */}}
+
+
+{{- $pages = site.RegularPages }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
