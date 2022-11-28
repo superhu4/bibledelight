@@ -6,7 +6,7 @@ keywords: test, chicken, cow
 lastmod: 2022-11-22
 title: Tenth
 date: 2022-11-23
-description: This intro blurb. Where does description go?
+description: This intro blurb. Where does summary go?
 publishDate: 2022-11-25
 ---
 This is last tenth.
