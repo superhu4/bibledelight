@@ -31,12 +31,6 @@ collections: # A list of collections the CMS should be able to edit
           time_format: "HH:mm",
           format: "YYYY-MM-DD HH:mm",
         }
-      - label: "Cover Image"
-        name: "image"
-        widget: "image"
-        required: false
-        tagname: ""
-
       - { label: "Body", name: "body", widget: "markdown", hint: "Main content goes here." }
 
 
