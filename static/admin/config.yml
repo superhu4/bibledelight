@@ -1,9 +1,13 @@
 backend:
   name: git-gateway
+  branch: master
+  
+# This line should *not* be indented
+publish_mode: editorial_workflow
 
 site_url: https://bibledelight.netlify.app
 
-media_folder: static
+media_folder: "static"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
