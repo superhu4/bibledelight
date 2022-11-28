@@ -6,6 +6,8 @@ backend:
 publish_mode: editorial_workflow
 
 media_folder: "static"
+public_folder: "/"
+
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
