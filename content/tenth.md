@@ -1,12 +1,13 @@
 ---
-title: "Tenth"
-date: 2022-11-23
-lastmod: 2022-11-22
-publishDate: 2022-11-25
+draft: false
 expiryDate: 2023-11-27
 summary: This is a summary.
 keywords: test, chicken, cow
-draft: false
+lastmod: 2022-11-22
+title: Tenth
+date: 2022-11-23
+description: This intro blurb. Where does description go?
+publishDate: 2022-11-25
 ---
 This is last tenth.
 
