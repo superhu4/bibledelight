@@ -2,46 +2,49 @@ baseURL: http://bibledelight.netlify.app/
 languageCode: en-us
 title: Bible Delight
 theme: papermod
-enableGitInfo: true
 paginate: 10
-frontmatter:
-  date:
-    - date
-    - publishDate
-    - lastmod
-  lastmod:
-    - lastmod
-    - date
-    - publishDate
 params:
-  description: Lists and evaluates Bible reading plans and trends in Bible intake.
+  description: Lists and evaluates Bible reading plans and related tools, trends, and tips in Scripture intake.
   datesinlist: 1
   disableThemeToggle: false
   ShowReadingTime: false
   mainSections:
-    - posts
+    - plans
+    - bibles
+    - tools
+    - thoughts
 
 related:
   includeNewer: true
-  threshold: 75
-  toLower: false
   indices:
-    - name: keywords
-      weight: 100
-    - name: date
-      weight: 10
+  - name: keywords
+    weight: 100
+  - name: tags
+    weight: 50
+  - name: date
+    weight: 10
+  threshold: 80
+  toLower: false
+      
       
 menu:
   main:
-    - identifier: about
-      name: about
-      url: /about/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: plans
+      name: Plans
+      url: /plans/
       weight: 20
-
+    - identifier: bibles
+      name: Bibles
+      url: /bibles/
+      weight: 30
+    - identifier: tools
+      name: Tools
+      url: /tools/
+      weight: 40
+    - identifier: thoughts
+      name: Thoughts
+      url: /thoughts/
+      weight: 50
 
 imaging:
   anchor: Smart
@@ -49,3 +52,9 @@ imaging:
   hint: photo
   quality: 75
   resampleFilter: Box
+  
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
