@@ -4,7 +4,7 @@ title: Bible Delight
 theme: papermod
 paginate: 10
 params:
-  description: Lists and evaluates Bible reading plans and related tools, trends, and tips in Scripture intake.
+  description: Lists and evaluates Bible reading plans and related tools and thoughts in Scripture intake.
   datesinlist: 1
   disableThemeToggle: false
   ShowReadingTime: false

@@ -8,6 +8,6 @@ draft: false
 
 Tim Wildsmith, of [BibleReviewBlog.com](https://biblereviewblog.com), has been going through the Bible and chronicling it on [YouTube](https://www.youtube.com/playlist?list=PLxYZnUdk-hd1g5_2G56RX9udQIc5KWJwk).
 
-Intro review below:
+Intro video below:
 
 {{< youtube OG0RN6FOZ7Y >}}
