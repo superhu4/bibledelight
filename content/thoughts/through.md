@@ -21,5 +21,5 @@ Therefore, utilizing a companion [devotion](/tags/devotion) or reading in commun
 
 However, using a plan that does not proceed sequentially through Scripture is the most direct approach. Specifically, a plan that loosely follows the church calendar is a natural way to cover the scope of Scripture by taking in a healthy balance of both the Old and New Testament.
 
-But this is not without its own [challenges](/thoughts/eureka). 😬
+But this is not without its own challenges. 😬
 

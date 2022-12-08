@@ -16,5 +16,6 @@ After years of being involved in preparing a Bible reading plan for our church, 
 
 ## Bonus Values
 
+- **Daily Psalm or Proverb** – Psalms are helpful in shaping a prayer life; Proverbs help cultivate wisdom.
 - **In YouVersion's Bible** – Many of our people use the Bible app
 - **Devotional support** – Can be helpful in explaining and applying the text (and thus not being discouraged by not understanding)
