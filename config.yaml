@@ -45,7 +45,6 @@ menu:
       name: Thoughts
       url: /thoughts/
       weight: 50
-
 imaging:
   anchor: Smart
   bgColor: '#ffffff'

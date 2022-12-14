@@ -21,7 +21,7 @@ I encourage you to read the [rest of her article](https://www.thegospelcoalition
 
 - Five days a week
 - Pseudo-chronological
-- [evotional support](https://www.fivedaybiblereading.com/readers-companion/) – However, I was not able to preview them on the site; I contacted the website owner about this, but to no avail.
+- [Devotional support](https://www.fivedaybiblereading.com/readers-companion/) – However, I was not able to preview them on the site; I contacted the website owner about this, but to no avail.
 - Available in [other languages](https://www.fivedaybiblereading.com/other-languages/) – However, not all have been updated to the current year.
 
 

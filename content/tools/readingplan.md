@@ -6,7 +6,7 @@ url:
 draft: false
 ---
 
-> "[ReadingPlan](https://pricejh.com/readingplan/) you track your progress as you read through the Bible. You can start a plan at any time, progressing at your own rate or on the schedule dictated by the plan. You can optionally link to an online bible site to see the plan's readings in the application's built-in web view, or open the reading in one of many native bible apps."
+> "[ReadingPlan](https://pricejh.com/readingplan/) helps you track your progress as you read through the Bible. You can start a plan at any time, progressing at your own rate or on the schedule dictated by the plan. You can optionally link to an online bible site to see the plan's readings in the application's built-in web view, or open the reading in one of many native bible apps."
 
 From 2016 to 2020, we had a church app. It had sermons, events, and our Bible reading plan. However, the app never got traction and the company behind it phased out support for the app platform.
 
