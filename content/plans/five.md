@@ -1,6 +1,7 @@
 ---
 title: Five Day Bible Reading Plan
 date: 2022-12-07
+lastMod: 2022-12-15
 tags: [one year, devotion]
 url:
 draft: false
@@ -10,11 +11,13 @@ Melissa Kruger wrote in December 2015:
 
 > Last December, I went on a hunt for a new Bible reading plan. I wanted to find one that was 5 days a week (instead of the usual seven) and I was hoping to find one that was psuedo-chronological (more on what I mean by that in a moment). After searching a variety of websites, I came across this Bible reading plan that is my new favorite. I think it will be one that I use time and time again. [(source)](https://www.thegospelcoalition.org/blogs/melissa-kruger/my-favorite-bible-in-a-year-reading-plan-2/)
 
-So much of are article resonated with my desired "[core characteristics](/thoughts/core)" of a Bible reading plan. For example, she also laments the [challenge](/thoughts/through) of simply reading through the Bible and highlights how the Five Day plan addresses this:
+So much of are article resonated with my desired "[core characteristics](/thoughts/core)" of a Bible reading plan. For example, she also laments the challenge of simply reading through the Bible and highlights how the Five Day plan addresses this:
 
 > However, the one downside of the chronological plan was that I didn’t get to the New Testament until October. I prefer a plan that allows me to read them side-by-side throughout the year. In this 5-day plan, the Old Testament is arranged chronologically, and there is a New Testament reading every day. [(source)](https://www.thegospelcoalition.org/blogs/melissa-kruger/my-favorite-bible-in-a-year-reading-plan-2/)
 
-I encourage you to read the [rest of her article](https://www.thegospelcoalition.org/blogs/melissa-kruger/my-favorite-bible-in-a-year-reading-plan-2/) as she does a great job describing the Five Day Bible Reading plan.
+(Note: I [agree](/thoughts/through).)
+
+I encourage you to read the [rest of her article](https://www.thegospelcoalition.org/blogs/melissa-kruger/my-favorite-bible-in-a-year-reading-plan-2/) as she does a great job describing the [Five Day Bible Reading plan](https://www.fivedaybiblereading.com).
 
 
 ## Features
