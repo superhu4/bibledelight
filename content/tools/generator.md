@@ -1,8 +1,7 @@
 ---
 title: Bible Reading Plan Generator
 date: 2022-12-06
-tags: 
-
+tags: [website]
 url:
 draft: false
 ---
@@ -11,4 +10,4 @@ draft: false
 
 For anyone curious about creating their own Bible reading plan, [Bible Reading Plan Generator](https://biblereadingplangenerator.com/) is a flexible canvas to test ideas. 
 
-High recommended!
+Highly recommended!
