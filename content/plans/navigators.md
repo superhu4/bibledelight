@@ -1,6 +1,7 @@
 ---
 title: Navigators Bible Reading Plan
 date: 2022-12-15
+lastmod: 2022-12-16
 tags: [one year]
 keywords: [navigators]
 url:
@@ -23,3 +24,7 @@ The [Navigators Bible Reading Plan](https://www.navigators.org/wp-content/upload
 - Good mixture of Old Testament (including wisdom literature) and New Testament throughout the year.
 - Good flexibility in including "free days" each month and having no set start date.
 - However, given such flexibility, it would impossible to align with the church calendar. In addition, each day has a good amount of reading. 
+
+## Others' Thoughts
+
+John Piper [likes and uses this plan](https://youtu.be/So61zHqhqZs?t=371) because (a) there are four different readings (thus it is more likely at least one of the readings is edifying) and (b) there are catch-up days. (Note: similar [Dr. Donald Whitney's thoughts](/thoughts/whitney).)
