@@ -16,6 +16,6 @@ There seem to be five basic Bible reading plans:
 
 4. Customized – Like [Tim Chester's three year plan](https://timchester.wordpress.com/2017/12/18/bible-reading-plan-2018/) or [Professor Horner's plan](https://bibleplan.org/plans/prof-horner/) which has 10 chapters per day.
 
-5. DIY – Using a generic Bible [chart](https://visualunit.me/2010/12/14/bible-reading-chart/) or app like BibleTracker ([iOS](https://apps.apple.com/us/app/my-bible-tracker/id1530078172), [Android](https://bit.ly/3UA5Sz9)), Bible Reading Assistant ([iOS](https://apps.apple.com/us/app/bible-reading-assistant/id1473756195), [Android](https://bit.ly/3FxMfUr)), Tracks – Bible Companion ([iOS](https://apps.apple.com/us/app/tracks-bible-companion/id1231878723), [Android](https://bit.ly/3VZibpN)), or Daily Soul Bread ([iOS](https://apps.apple.com/us/app/daily-soul-bread/id1175130611)).
+5. DIY – Using a generic Bible [chart](https://visualunit.me/2010/12/14/bible-reading-chart/), [check sheet](https://bit.ly/3V4uAIu), or app like BibleTracker ([iOS](https://apps.apple.com/us/app/my-bible-tracker/id1530078172), [Android](https://bit.ly/3UA5Sz9)), Bible Reading Assistant ([iOS](https://apps.apple.com/us/app/bible-reading-assistant/id1473756195), [Android](https://bit.ly/3FxMfUr)), Tracks – Bible Companion ([iOS](https://apps.apple.com/us/app/tracks-bible-companion/id1231878723), [Android](https://bit.ly/3VZibpN)), or Daily Soul Bread ([iOS](https://apps.apple.com/us/app/daily-soul-bread/id1175130611)).
 
 
