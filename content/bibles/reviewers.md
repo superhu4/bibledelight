@@ -1,11 +1,11 @@
 ---
 title: "List of Bible Reviewers"
 date: 2022-12-06
-lastmod: 2022-12-07
+lastmod: 2023-01-01
 draft: false
 ---
 
-Reviewing presuming Bibles is trending. Below are some notable Bible reviewers.
+Reviewing premium Bibles is trending. Below are some notable Bible reviewers.
 
 - A Nickels Worth Bible Reviews - [YouTube](https://www.youtube.com/@anickelsworthbiblereviews), [Facebook](https://facebook.com/officialanickelsworth)
 - Bible Buying Guide - [Website](https://biblebuyingguide.com), [YouTube](https://www.youtube.com/@BibleBuyingGuide)
