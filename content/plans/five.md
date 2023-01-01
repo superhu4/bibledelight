@@ -1,7 +1,7 @@
 ---
 title: Five Day Bible Reading Plan
 date: 2022-12-07
-lastMod: 2022-12-15
+lastMod: 2023-01-01
 tags: [one year, devotion]
 url:
 draft: false
@@ -31,6 +31,6 @@ I encourage you to read the [rest of her article](https://www.thegospelcoalition
 ## My Thoughts
 - I like the simplicity and flexibility of its titular feature of five days of readings each week.
 - In addition, like Melissa articulated in her article, I appreciate the pseudo-chronological weaving together of the texts *while* still keeping the reader in the New Testament.
-- That said, each day covers a significant amount of chapters.
+- That said, each day covers a significant number of chapters.
 - Further, the plan is not directly tied to the church calendar. (However, since a Gospel is read each season, it would not be that difficult to connect to Lent and Easter. Further, the minor prophets and Revelation (read in the last five weeks of the year) can connect to Advent. One would need to be intentional about these connections.)
 - This was the first Bible reading plan that I remember seeing a financial component connected to it.

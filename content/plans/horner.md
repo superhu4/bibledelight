@@ -1,11 +1,15 @@
 ---
 title: "Dr. Grant Horner's Bible Reading System"
 date: 2022-12-16
-lastmod: 2022-12-17
+lastmod: 2023-01-01
 tags: [video]
 url:
 draft: false
 ---
+
+[Dr. Grant Horner's Bible Reading System](https://bibleplan.org/plans/prof-horner/) is, as the name implies, a system rather than a static plan that reads one chapter each day from ten different biblical genres.
+
+{{< figure src="/horner-genres.png" title="Screenshot from video below" >}}
 
 {{< youtube G9DF0obqZPs >}}
 
@@ -13,11 +17,7 @@ draft: false
 
 ## Features
 
-- Read one chapter each day from ten different biblical genres; restart the genre after completing the genre.
-
-{{< figure src="/horner-genres.png" title="Screenshot from video above" >}}
-
-- As a result, each day has a new set of readings and texts to cross reference. (In this sense, this is a more of a perpetual system rather than a traditional plan (with concrete start and end dates).)
+- As a result of restart each genre after completing the genre, each day has a new set of readings and texts to cross reference. (In this sense, this is a more of a perpetual system rather than a traditional plan (with concrete start and end dates).)
 
 Here's how Dr. Horner puts it:
 

@@ -27,4 +27,4 @@ The [Navigators Bible Reading Plan](https://www.navigators.org/wp-content/upload
 
 ## Others' Thoughts
 
-John Piper [likes and uses this plan](https://youtu.be/So61zHqhqZs?t=371) because (a) there are four different readings (thus it is more likely at least one of the readings is edifying) and (b) there are catch-up days. (Note: similar [Dr. Donald Whitney's thoughts](/thoughts/whitney).)
+John Piper [likes and uses this plan](https://youtu.be/So61zHqhqZs?t=371) because (a) there are four different readings (thus it is more likely at least one of the readings is edifying) and (b) there are catch-up days. (Note: similar to [Dr. Donald Whitney's thoughts](/thoughts/whitney).)
