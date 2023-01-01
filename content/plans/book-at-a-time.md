@@ -1,6 +1,7 @@
 ---
 title: The Book-at-a-Time Bible Reading Plan
 date: 2022-12-15
+lastmod: 2022-12-31
 tags: [one year]
 keywords: [navigators]
 url:
@@ -25,4 +26,8 @@ The [Navigators Book-at-a-Time Bible Reading Plan](https://www.navigators.org/wp
 - In contrast to the [Navigators Bible Reading Plan](https://www.navigators.org/wp-content/uploads/2021/12/navigators-bible-reading-plan.pdf) (PDF), this plan seems to have more focus as a result of focusing on just two books at time.
 - I'm not sure the rationale behind the ordering of the minor prophets. At first I thought  it was chronological, but that doesn't seem to be the case (see Month 12).
 - Does not align with the church calendar and has a good amount of reading each day.
+
+## Others' Thoughts
+
+{{< youtube IBqQqP50Kpg >}}
 

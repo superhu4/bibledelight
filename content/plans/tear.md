@@ -1,6 +1,7 @@
 ---
 title: Tear Up Your Bible 2023
 date: 2022-12-07
+lastmod: 2022-12-31
 tags: [one year]
 url:
 draft: false
@@ -25,5 +26,12 @@ draft: false
 - I so appreciate his zeal for Bible reading as well as his thoughtfulness in approaching preparing a Bible reading plan! 💯
 - The [challenge of reading the Bible straight through and his unique reading order as a solution](https://youtu.be/qhv4QIRSWaQ?t=151) definitely piqued my curiosity.
 - Related, the alternation between the Old and New Testaments is something I've been considering to keep readers engaged. (And something which [Bible Reading Plan Generator](https://biblereadingplangenerator.com/) allows automatically.)
-- The monetary connection is something the [Five Day Bible Reading Plan](https://www.fivedaybiblereading.com) also employs.
+- The monetary connection is something the [Five Day Bible Reading Plan](https://www.fivedaybiblereading.com) also employs. 
+- However, this is the first plan I've seen that has a referral program (see others' videos below).
 - Having not seen the actual plan, I cannot comment on specifics. However, with my [core characteristics](/thoughts/core) in mind, my sense is that it is a significant daily investment and may not follow the church calendar.
+
+## Others' Thoughts
+
+{{< youtube DGilX_w-2rE >}} 
+
+{{< youtube 1rjjxakhmwo >}} 

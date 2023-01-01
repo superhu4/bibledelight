@@ -5,6 +5,8 @@ lastmod: 2022-12-07
 draft: false
 ---
 
+Reviewing presuming Bibles is trending. Below are some notable Bible reviewers.
+
 - A Nickels Worth Bible Reviews - [YouTube](https://www.youtube.com/@anickelsworthbiblereviews), [Facebook](https://facebook.com/officialanickelsworth)
 - Bible Buying Guide - [Website](https://biblebuyingguide.com), [YouTube](https://www.youtube.com/@BibleBuyingGuide)
 - Bible Review Blog with Tim Wildsmith - [Website](https://www.biblereviewblog.com), [YouTube](https://www.youtube.com/@timwildsmith), [Facebook](https://www.facebook.com/BibleReviewBlog/), [Instagram](https://www.instagram.com/biblereviewblog/) 

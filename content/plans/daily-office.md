@@ -1,6 +1,7 @@
 ---
 title: Daily Office Lectionary Resources
 date: 2022-12-06
+lastmod: 2022-12-31
 tags: 
 url:
 draft: false
@@ -16,3 +17,9 @@ draft: false
 - [Daily Office for All](https://dailyofficeforall.com/) - A simplified version of [dailyoffice2019.com](https:/www.dailyoffice2019.com).
 
 - [LectServ](https://www.lectserve.com) – Minimal and straightforward site that provides the ACNA Civil or ACNA Liturgical daily lectionary and Sunday lectionary.
+
+Chad Brooks shares his use of the Daily Office:
+
+{{< youtube 4k1OrwI45BM >}}
+
+{{< youtube zb7xoJP1ono >}}
