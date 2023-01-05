@@ -19,7 +19,7 @@ This plan journeys through the New Testament and Psalms twice and Old Testament 
 
 - As a result of reading from different books, Dr. D.A. Carson [writes](https://www.thegospelcoalition.org/article/mcheyne-bible-reading-plan/) that this "reflects M’Cheyne’s view that Christians should read from more than one part of the Bible at a time. Not only will this help you link various passages in your mind, but it will help carry you through some of the parts of the Bible that are on first inspection somewhat leaner than others (e.g., 1 Chron. 1–12)."
 
-- Offer flexibility as the four readings can be spread out over [two years](http://www.edginet.org/mcheyne/year_carson_a4.pdf).
+- Offers flexibility as the four readings can be spread out over [two years](http://www.edginet.org/mcheyne/year_carson_a4.pdf).
 
 - Excellent devotional support:
   - Dr. D.A. Carson has written [two](https://www.crossway.org/books/for-the-love-of-god-tpb-1/) [volumes](https://www.crossway.org/books/for-the-love-of-god-tpb/) which follow this plan. These are available in written and audio form on [The Gospel Coalition](https://www.thegospelcoalition.org/read-the-bible/). (Note: see [his slight edits](http://www.edginet.org/mcheyne/info.html#carson) and [some insights](https://www.thegospelcoalition.org/article/mcheyne-bible-reading-plan/) from him. Further, as of September 2022, Dr. Carson [hopes to complete the final two volumes](https://youtu.be/4eV0C0-edpg?t=1114).)
