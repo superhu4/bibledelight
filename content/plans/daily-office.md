@@ -2,7 +2,7 @@
 title: Daily Office Lectionary Resources
 date: 2022-12-06
 lastmod: 2022-12-31
-tags: 
+tags: [video]
 url:
 draft: false
 ---

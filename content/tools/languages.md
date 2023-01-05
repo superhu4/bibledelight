@@ -11,7 +11,12 @@ draft: false
 
 ## Equip
 
+- Devotions on the Greek New Testament – [Volume 1](https://amzn.to/3VIdQab), [Volume 2](https://amzn.to/3G6rVsc)
+
+- [Devotions on the Hebrew Bible](https://amzn.to/3Qf3e1a)
+
 - [Greek for Life: Strategies for Learning, Retraining, and Reviving New Testament Greek](
 https://amzn.to/3FzSLtT)
 
 - [Hebrew for Life: Strategies for Learning, Retaining, and Reviving Biblical Hebrew](https://amzn.to/3UwAAZW)
+
