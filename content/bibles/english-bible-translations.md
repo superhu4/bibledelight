@@ -1,5 +1,5 @@
 ---
-title: "English Bible Translations Explained"
+title: "English Bible Translations Explained ➡️"
 date: 2022-12-03
 lastmod: 2022-12-07
 tags: ['video']

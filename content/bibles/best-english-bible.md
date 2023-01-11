@@ -1,5 +1,5 @@
 ---
-title: "Best English Bible?"
+title: "Best English Bible? ➡️"
 date: 2022-12-14
 tags: ['video']
 Keywords: [translation]

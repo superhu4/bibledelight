@@ -1,5 +1,5 @@
 ---
-title: "Video: Study Bible Buying Guide 2023 - Six Questions to Consider"
+title: "Video: Study Bible Buying Guide 2023 - Six Questions to Consider ➡️"
 date: 2022-12-03
 tags: [video, bibles]
 url: study-bibles
