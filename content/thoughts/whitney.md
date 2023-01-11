@@ -1,5 +1,5 @@
 ---
-title: Should you use a Bible reading plan?
+title: Should you use a Bible reading plan? ➡️
 date: 2022-12-16
 Lastmod: 2023-01-01 
 tags: [one year, video, motivation]

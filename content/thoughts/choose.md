@@ -1,5 +1,5 @@
 ---
-title: "Bible Reading Plan: How to Choose a Bible Reading Plan?"
+title: "Bible Reading Plan: How to Choose a Bible Reading Plan? ➡️"
 date: 2022-12-14
 tags: [video]
 url:
