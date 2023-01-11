@@ -1,7 +1,7 @@
 ---
 title: Robert Murray M’Cheyne Bible Reading Plan
 date: 2023-01-01
-lastmod: 
+lastmod: 2023-01-05
 tags: [devotion, podcast, book, one year]
 keywords: 
 url:
@@ -29,6 +29,8 @@ This plan journeys through the New Testament and Psalms twice and Old Testament 
   - Jacob Gerber does something similar at [Free Daily Bible Study](https://freedailybiblestudy.com).
 
   - Crossway offers the [ESV M'Cheyne Plan Podcast](https://itunes.apple.com/us/podcast/esv-mcheyne-one-year-reading/id349167755?mt=2) and [YouVersion plan](https://my.bible.com/reading-plans/24).
+
+  - Bible Society also offers [daily reflections](https://www.biblesociety.org.uk/explore-the-bible/daily-reflection/) which following the M'Cheyne plan.
 
 ## My Thoughts
 
