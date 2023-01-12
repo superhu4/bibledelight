@@ -14,7 +14,7 @@ While convenient, it keeps the reader outside of the New Testament until very la
 
 That said, any plan and any Scripture intake is better that no plan and no Scripture intake!
 
-Therefore, utilizing a companion [devotion](/tags/devotion) or reading in community can be helpful ways to overcome this challenge.  
+Therefore, utilizing a companion [devotional](/tags/devotional) or reading in community can be helpful ways to overcome this challenge.  
 
 
 ## An Alternative

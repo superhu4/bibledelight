@@ -1,7 +1,7 @@
 ---
 title: "52 Weeks in the Word"
 date: 2022-12-03T16:25:46-05:00
-tags: [devotion, one year, podcast, six days, through]
+tags: [devotional, one year, podcast, six days, through]
 url:
 draft: false
 ---

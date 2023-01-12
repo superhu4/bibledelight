@@ -1,7 +1,7 @@
 ---
 title: A Year in the Bible
 date: 2022-12-06
-tags: [devotion, one year, through]
+tags: [devotional, one year, through]
 url:
 draft: false
 ---

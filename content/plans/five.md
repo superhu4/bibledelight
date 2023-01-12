@@ -2,7 +2,7 @@
 title: Five Day Bible Reading Plan
 date: 2022-12-07
 lastMod: 2023-01-01
-tags: [one year, devotion]
+tags: [one year, devotional, five days]
 url:
 draft: false
 ---

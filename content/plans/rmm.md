@@ -2,7 +2,7 @@
 title: Robert Murray M’Cheyne Bible Reading Plan
 date: 2023-01-01
 lastmod: 2023-01-05
-tags: [devotion, podcast, book, one year]
+tags: [devotional, podcast, book, one year]
 keywords: 
 url:
 draft: false
