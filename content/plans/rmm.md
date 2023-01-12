@@ -30,7 +30,7 @@ This plan journeys through the New Testament and Psalms twice and Old Testament 
 
   - Crossway offers the [ESV M'Cheyne Plan Podcast](https://itunes.apple.com/us/podcast/esv-mcheyne-one-year-reading/id349167755?mt=2) and [YouVersion plan](https://my.bible.com/reading-plans/24).
 
-  - Bible Society also offers [daily reflections](https://www.biblesociety.org.uk/explore-the-bible/daily-reflection/) which following the M'Cheyne plan.
+  - Bible Society also offers [daily reflections](https://www.biblesociety.org.uk/explore-the-bible/daily-reflection/) which follow the M'Cheyne plan.
 
 ## My Thoughts
 
