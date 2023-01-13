@@ -45,4 +45,19 @@ The [Ten Minute Bible Talks Bible Reading Plan 2023](https://tenminutebibletalks
 ## My Thoughts
 - Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.
 - Thoughtful arrangement of the New Testament. Scattering the Gospels throughout the years keep the account of Jesus fresh. Interspersing Paul's epistles in the Acts narrative helps connect the dots.
+
+Here's how they describe their order:
+
+
+>Our plan creates a lot of variety, inviting you to understand the New Testament in fresh ways. We’ve divided the whole New Testament into three sections.
+> 
+> 1. Christianity's Jewish Roots
+>  The story of the Bible doesn’t start with Jesus but with the family of Abraham, and these books continue that story in insightful ways. 
+>  
+> 2. Paul + Friends on Mission
+> These books were largely addressed to Gentile converts to Christianity, thus showing how Jesus is the king and rescuer of all humanity.
+>  
+> 3. John's Big Story of the Church
+>  John was with Jesus from the beginning of his ministry, but—unlike most of the disciples—he was not executed for his faith. His writings give us the whole sweep of the early Christian movement.
+
 - Does not explicitly acknowledge the church calendar.
