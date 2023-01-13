@@ -44,6 +44,7 @@ The [Ten Minute Bible Talks Bible Reading Plan 2023](https://tenminutebibletalks
 
 ## My Thoughts
 - Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.
+- Does not explicitly acknowledge the church calendar.
 - Thoughtful arrangement of the New Testament. Scattering the Gospels throughout the years keep the account of Jesus fresh. Interspersing Paul's epistles in the Acts narrative helps connect the dots.
 
 Here's how they describe their order:
@@ -64,4 +65,3 @@ Here's how they describe their order:
 >  John was with Jesus from the beginning of his ministry, but—unlike most of the disciples—he was not executed for his faith. His writings give us the whole sweep of the early Christian movement.
 
 
-- Does not explicitly acknowledge the church calendar.
