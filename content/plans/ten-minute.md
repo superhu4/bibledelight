@@ -51,13 +51,17 @@ Here's how they describe their order:
 
 >Our plan creates a lot of variety, inviting you to understand the New Testament in fresh ways. We’ve divided the whole New Testament into three sections.
 > 
-> 1. Christianity's Jewish Roots
+> 1. **Christianity's Jewish Roots**
+>
 >  The story of the Bible doesn’t start with Jesus but with the family of Abraham, and these books continue that story in insightful ways. 
 >  
-> 2. Paul + Friends on Mission
+> 2. **Paul + Friends on Mission**
+>
 > These books were largely addressed to Gentile converts to Christianity, thus showing how Jesus is the king and rescuer of all humanity.
 >  
-> 3. John's Big Story of the Church
+> 3. **John's Big Story of the Church**
+>
 >  John was with Jesus from the beginning of his ministry, but—unlike most of the disciples—he was not executed for his faith. His writings give us the whole sweep of the early Christian movement.
+
 
 - Does not explicitly acknowledge the church calendar.
