@@ -1,6 +1,7 @@
 ---
 title: Ten Minute Bible Talks New Testament Bible Reading Plan 2023
 date: 2023-01-12
+lastmod: 2023-01-13 
 tags: [one year, devotional, five days, new testament, podcast]
 keywords: 
 url:
