@@ -44,7 +44,7 @@ The [Ten Minute Bible Talks Bible Reading Plan 2023](https://tenminutebibletalks
 - Helpful [10-minute podcast](https://tenminutebibletalks.com/episodes) that explains and applies that day's text
 
 ## My Thoughts
-- Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.
+- Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.)
 - Does not explicitly acknowledge the church calendar.
 - Thoughtful arrangement of the New Testament. Scattering the Gospels throughout the years keep the account of Jesus fresh. Interspersing Paul's epistles in the Acts narrative helps connect the dots.
 
