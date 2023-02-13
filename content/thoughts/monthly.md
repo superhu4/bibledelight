@@ -1,6 +1,7 @@
 ---
 title: "Why I'm Doing 12 Bible Reading Challenges in 2023 (And What the First One Is) ➡️"
 date: 2023-01-04
+lastMod: 2023-02-13
 tags: [video, one month]
 url:
 draft: false
