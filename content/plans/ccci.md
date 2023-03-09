@@ -34,6 +34,7 @@ Supporting these goals, I use the following structures to aid in creation of the
 
 ## 2024 Example
 
+*Note: The final version would include a daily psalm.*
 
 ### January 1 through March 22
 
