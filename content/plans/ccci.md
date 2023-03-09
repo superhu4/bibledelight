@@ -6,8 +6,6 @@ draft: false
 
 ---
 
-# Our Church's Plan
-
 ## Goals
 
 When I was developing our church's Bible reading plan, I had the following goals:
