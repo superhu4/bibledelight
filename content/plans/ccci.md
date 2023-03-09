@@ -26,7 +26,7 @@ Supporting these goals, I use the following structures to aid in creation of the
 - Holy Week - Use plans from [Bible.com](https://my.bible.com/search/plans?q=lent) (including [this plan](https://my.bible.com/reading-plans/11399-jesuss-path-to-the-cross-an-8-day-devotional/day/1)) or from the [American Bible Society](https://americanbible.org/resources/daily-bible-reading/).
 - After Holy Week through May: Acts and Epistles
 - June and July: Freestyle (Old Testament wisdom and / or other Scripture)
-- August through Christmas week: Pentateuch, History, and Prophets Grouped on five-year rotation:[^4]
+- August through Christmas week: Pentateuch, History, and Prophets grouped on five-year rotation:[^4]
   - Year A: Genesis, Ezra, and Isaiah
   - Year B: Exodus, 1 Kings (or 2 Kings), and Ezekiel
   - Year C: Leviticus, 1 Samuel (or 2 Samuel), Jeremiah, and Lamentations
@@ -39,13 +39,14 @@ Supporting these goals, I use the following structures to aid in creation of the
 
 ### January 1 through March 22
 
-2024 will be Year B for the Gospels and thus begin with the Gospel of Mark.
+2024 will be Year B for the Gospels and thus begin with the Gospel of Mark:
 
-[![Mark, 1 Peter, 2 Peter, and Jude](/static/2024-1.png)](https://biblereadingplangenerator.com/?start=2024-01-01&total=35&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=MRK,1PE,2PE,JUD&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
+[![Mark, 1 Peter, 2 Peter, and Jude](/2024-1.png)](https://biblereadingplangenerator.com/?start=2024-01-01&total=35&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=MRK,1PE,2PE,JUD&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
 
-![test](/static/2024-1.png)
 
-[![Luke and John](/static/2024-2.png)](https://biblereadingplangenerator.com/?start=2024-02-05&total=46&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=LUK,JHN&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
+The plan continues with two other Gospels:
+
+[![Luke and John](/2024-2.png)](https://biblereadingplangenerator.com/?start=2024-02-05&total=46&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=LUK,JHN&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
 
 
 ### Holy Week
@@ -54,7 +55,9 @@ Supporting these goals, I use the following structures to aid in creation of the
 
 ### April 1 through May 31
 
-[![Acts, 2 Corinthians through Colossians](/static/2024-3.png)](https://biblereadingplangenerator.com/?start=2024-04-01&total=60&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=ACT,2CO,GAL,EPH,PHP,COL&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
+Acts and then 2 Corinthians through Colossians:
+
+[![Acts, 2 Corinthians through Colossians](/2024-3.png)](https://biblereadingplangenerator.com/?start=2024-04-01&total=60&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=ACT,2CO,GAL,EPH,PHP,COL&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
 
 ### June 1 through July 31
 
@@ -62,9 +65,9 @@ Supporting these goals, I use the following structures to aid in creation of the
 
 ### August 1 through December 20
 
-2024 will be Year D for the Old Testament and thus begin with Numbers.
+2024 will be Year D for the Old Testament and thus begin with Numbers:
 
-[![Numbers, Joshua, Judges, Ruth, Daniel, and Hosea](/static/2024-4.png)](https://biblereadingplangenerator.com/?start=2024-08-01&total=143&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=NUM,JOS,JDG,RUT,DAN,HOS&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
+[![Numbers, Joshua, Judges, Ruth, Daniel, and Hosea](/2024-4.png)](https://biblereadingplangenerator.com/?start=2024-08-01&total=143&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=NUM,JOS,JDG,RUT,DAN,HOS&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
 
 ### Christmas Week
 
