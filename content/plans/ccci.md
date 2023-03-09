@@ -43,6 +43,8 @@ Supporting these goals, I use the following structures to aid in creation of the
 
 [![Mark, 1 Peter, 2 Peter, and Jude](/static/2024-1.png)](https://biblereadingplangenerator.com/?start=2024-01-01&total=35&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=MRK,1PE,2PE,JUD&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
 
+![test](/static/2024-1.png)
+
 [![Luke and John](/static/2024-2.png)](https://biblereadingplangenerator.com/?start=2024-02-05&total=46&format=calendar&order=traditional&daysofweek=2,3,4,5,6&books=LUK,JHN&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0)
 
 
