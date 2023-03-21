@@ -50,7 +50,7 @@ The plan continues with two other Gospels:
 
 ### Holy Week
 
-*Choose a series of Scriptures from a Lent Bible reading plan.*
+*Choose a series of Scriptures from a Lent Bible reading plan [such as this one](https://www.bible.com/en/reading-plans/36377).*
 
 ### April 1 through May 31
 
