@@ -15,7 +15,7 @@ draft: false
 ## Features
 
 - Exposure to valuable resources
-- Easy to user with someone else
+- Easy to use with someone else
 - Support joy in God's word
 - Allows lingering in certain places
 - Keeps the biblical text saturating life 
@@ -24,4 +24,5 @@ draft: false
 
 ## My Thoughts
 - I appreciate the simplicity, thoughtfulness, and grace-filled realistic approach.
-- One still needs discipline to regularly read.
+- With discipline, one could really leverage a variety of excellent resources and glean much from the Scriptures.
+- One still needs discipline to read regularly and widely to read “the whole will of God.” (Acts 20:27).
