@@ -1,6 +1,7 @@
 ---
 title: "Our Church's Plan"
 date: 2023-03-06
+lastmod: 2023-08-18 
 tags: [church, five days]
 draft: false
 
@@ -25,7 +26,7 @@ Supporting these goals, I use the following structures to aid in creation of the
 - After Holy Week through May: Acts and Epistles
 - June and July: Freestyle (Old Testament wisdom and / or other Scripture)
 - August through Christmas week: Pentateuch, History, and Prophets grouped on five-year rotation:[^4]
-  - Year A: Genesis, Ezra, and Isaiah
+  - Year A: Genesis, Ezra through Esther, and Isaiah
   - Year B: Exodus, 1 Kings (or 2 Kings), and Ezekiel
   - Year C: Leviticus, 1 Samuel (or 2 Samuel), Jeremiah, and Lamentations
   - Year D: Numbers, Joshua, Judges, Ruth, Daniel, and Hosea
@@ -70,7 +71,7 @@ Acts and then 2 Corinthians through Colossians:
 
 ### Christmas Week
 
-*Chose a series of Scriptures from an Advent Bible reading plan.*
+*Chose a series of Scriptures from an Advent Bible reading plan such as [this](https://www.bible.com/reading-plans/22859-the-coming-of-the-messiah/day/5).*
 
 
 
