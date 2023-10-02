@@ -7,7 +7,7 @@ url:
 draft: false
 ---
 
-[5 Day Bible Narratives](https://g3min.org/tune-my-heart/):
+[5 Day Bible Narratives](https://g3min.org/tune-my-heart/) follows the narrative of the entire Bible.
 
 
 ## Features
