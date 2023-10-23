@@ -1,7 +1,7 @@
 ---
 title: Daily Office Lectionary Resources
 date: 2022-12-06
-lastmod: 2022-12-31
+lastmod: 2023-10-23
 tags: [video]
 url:
 draft: false
@@ -25,3 +25,5 @@ Chad Brooks shares his use of the Daily Office:
 
 
 {{< youtube zb7xoJP1ono >}}
+
+- [Designed to be Read: The Architecture of the ACNA Daily Office Lectionary](https://anglicancompass.com/designed-to-be-read-the-architecture-of-the-acna-daily-office-lectionary/) – Helpful explanation of the ACNA Daily Office
