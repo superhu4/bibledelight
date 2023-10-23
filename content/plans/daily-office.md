@@ -18,6 +18,11 @@ draft: false
 
 - [LectServ](https://www.lectserve.com) – Minimal and straightforward site that provides the ACNA Civil or ACNA Liturgical daily lectionary and Sunday lectionary.
 
+## Reflections on the Daily Office
+
+- [Designed to be Read: The Architecture of the ACNA Daily Office Lectionary](https://anglicancompass.com/designed-to-be-read-the-architecture-of-the-acna-daily-office-lectionary/) – Helpful explanation of the ACNA Daily Office
+
+
 Chad Brooks shares his use of the Daily Office:
 
 {{< youtube 4k1OrwI45BM >}}
@@ -26,4 +31,4 @@ Chad Brooks shares his use of the Daily Office:
 
 {{< youtube zb7xoJP1ono >}}
 
-- [Designed to be Read: The Architecture of the ACNA Daily Office Lectionary](https://anglicancompass.com/designed-to-be-read-the-architecture-of-the-acna-daily-office-lectionary/) – Helpful explanation of the ACNA Daily Office
+
