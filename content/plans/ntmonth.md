@@ -56,7 +56,7 @@ Mitch Maher (of [Clarifying the Bible](https://clarifyingthebible.com)) shared t
 ## Features
 
 - By reading the entire New Testament in one month, one comprehensively traces the various New Testament themes.
-- This plan gives careful thought the sequence of readings (see below).
+- This plan gives careful thought the sequence of readings (see above).
 
 
 ## My Thoughts
