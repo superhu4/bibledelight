@@ -1,6 +1,7 @@
 ---
 title: Entire New Testament in a Month
 date: 2023-11-21
+Updated: 2023-12-05
 lastMod: 
 tags: [one month]
 url:
@@ -56,7 +57,7 @@ Mitch Maher (of [Clarifying the Bible](https://clarifyingthebible.com)) shared t
 ## Features
 
 - By reading the entire New Testament in one month, one comprehensively traces the various New Testament themes.
-- This plan gives careful thought the sequence of readings (see above).
+- This plan gives careful thought to the sequence of readings (see above).
 
 
 ## My Thoughts
