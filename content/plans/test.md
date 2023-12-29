@@ -7,3 +7,6 @@ draft: true
 ---
 
 test
+
+This is a test.
+
