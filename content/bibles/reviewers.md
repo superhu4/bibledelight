@@ -1,7 +1,7 @@
 ---
 title: "List of Bible Reviewers"
 date: 2022-12-06
-lastmod: 2023-01-01
+lastmod: 2024-03-23
 draft: false
 ---
 
