@@ -13,4 +13,5 @@ Reviewing premium Bibles is trending. Below are some notable Bible reviewers.
 - [Chad Brooks](https://www.youtube.com/@revchadbrooks)
 - [A Frisch Perspective](https://www.youtube.com/@AFrischPerspective)
 - [Joe's Bibles](https://www.youtube.com/@joesbibles5636)
+- [Lectio](https://www.lectio.org)
 - [Matthew Everhard](https://youtube.com/playlist?list=PLWctVi0LWLsAE8OawOHmrrZgLu3ryOrFK) – (However, he has [stopped doing Bible reviews](https://youtu.be/ebNFzPpZNOI).)

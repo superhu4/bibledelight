@@ -1,7 +1,7 @@
 ---
 title: Entire New Testament in a Month
 date: 2023-11-21
-Updated: 2023-12-05
+Lastmod: 2023-12-05
 lastMod: 
 tags: [one month]
 url:
