@@ -1,7 +1,7 @@
 ---
-title: Ten Minute Bible Talks New Testament Bible Reading Plan 2023
+title: Ten Minute Bible Talks New Testament Bible Reading Plan
 date: 2023-01-12
-lastmod: 2023-01-13 
+lastmod: 2024-03-28
 tags: [one year, devotional, five days, new testament, podcast]
 keywords: 
 url:
@@ -46,7 +46,7 @@ The [Ten Minute Bible Talks Bible Reading Plan 2023](https://tenminutebibletalks
 ## My Thoughts
 - Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.)
 - Does not explicitly acknowledge the church calendar.
-- Thoughtful arrangement of the New Testament. Scattering the Gospels throughout the years keep the account of Jesus fresh. Interspersing Paul's epistles in the Acts narrative helps connect the dots.
+- Thoughtful arrangement of the New Testament. Scattering the Gospels throughout the years keeps the account of Jesus fresh. Interspersing Paul's epistles in the Acts narrative helps connect the dots.
 
 Here's how they describe their order:
 
@@ -64,5 +64,35 @@ Here's how they describe their order:
 > 3. **John's Big Story of the Church**
 >
 >  John was with Jesus from the beginning of his ministry, but—unlike most of the disciples—he was not executed for his faith. His writings give us the whole sweep of the early Christian movement.
+
+The [Ten Minute Bible Talks Bible Reading Plan 2024](https://tenminutebibletalks.com/tmbt-bible-reading-plan-2024) journeys through the writings in a year with a corresponding devotional podcast.
+
+It includes:
+
+- Psalms
+- Chronicles
+- Proverbs
+- Ecclesiastes
+- Job
+- Lamentations
+- Song of Songs
+- Daniel
+- Ruth
+- Esther
+- Ezra
+- Nehemiah
+
+In the [introductory email](https://tenminutebibletalks.com/about/2024-bible-reading-plan), they write:
+
+> In the ancient order, the Ketuvim clearly emphasizes books written from the period of the Exile (1-2 Chronicles, Lamentations, Daniel, Esther, Ezra-Nehemiah). This creates an alternate context for the books. As we read them, we imagine Jews in Babylon and Persia, struggling to remain faithful to Yahweh and make sense of worship apart from the temple, and away from the land.
+> 
+> In this context, the Psalms take on a new flavor: the songs written for the temple in Jerusalem are now sung in synagogues across the Empire. They are music for the scattered and the gathered.
+> 
+> Likewise, in the context of exile, wisdom literature takes on a fresh meaning: *how can we live with the grain of God’s will while engrained in an idolatrous culture?*
+> 
+> Similarly, the history books take on a new purpose: How do we explain our situation away from the land, enslaved under foreign occupation? How do we make sense of our ancestors’ failures and renew our covenant relationship with God? How do go forward when our attempts at renewal fail?
+>
+> **These questions are not far from our own.**
+
 
 
