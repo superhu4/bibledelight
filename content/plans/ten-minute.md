@@ -69,7 +69,7 @@ Here's how they describe their order:
 
 # 2024
 
-The [Ten Minute Bible Talks Bible Reading Plan 2024](https://tenminutebibletalks.com/tmbt-bible-reading-plan-2024) journeys through the writings in a year with a corresponding devotional podcast.
+The [Ten Minute Bible Talks Bible Reading Plan 2024](https://tenminutebibletalks.com/about/2024-bible-reading-plan) journeys through the writings in a year with a corresponding devotional podcast.
 
 It includes:
 
