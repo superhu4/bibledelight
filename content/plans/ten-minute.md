@@ -1,4 +1,4 @@
-F---
+---
 title: Ten Minute Bible Talks Bible Reading Plans
 date: 2023-01-12
 lastmod: 2024-03-28
@@ -105,6 +105,8 @@ In the [introductory email](https://tenminutebibletalks.com/about/2024-bible-rea
 - Good to explore books that are often neglected.
 - Does not explicitly acknowledge the church calendar.
 - Does not read the New Testament at all.
+
+
 
 
 
