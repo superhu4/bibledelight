@@ -1,5 +1,5 @@
 ---
-title: Ten Minute Bible Talks New Testament Bible Reading Plan
+title: Ten Minute Bible Talks Bible Reading Plans
 date: 2023-01-12
 lastmod: 2024-03-28
 tags: [one year, devotional, five days, new testament, podcast]
@@ -8,6 +8,7 @@ url:
 draft: false
 ---
 
+# 2023
 
 The [Ten Minute Bible Talks Bible Reading Plan 2023](https://tenminutebibletalks.com/tmbt-bible-reading-plan-2023) journeys through the New Testament in a year with a corresponding devotional podcast.
 
@@ -64,6 +65,9 @@ Here's how they describe their order:
 > 3. **John's Big Story of the Church**
 >
 >  John was with Jesus from the beginning of his ministry, but—unlike most of the disciples—he was not executed for his faith. His writings give us the whole sweep of the early Christian movement.
+
+
+# 2024
 
 The [Ten Minute Bible Talks Bible Reading Plan 2024](https://tenminutebibletalks.com/tmbt-bible-reading-plan-2024) journeys through the writings in a year with a corresponding devotional podcast.
 
