@@ -104,7 +104,7 @@ In the [introductory email](https://tenminutebibletalks.com/about/2024-bible-rea
 - Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.)
 - Good to explore books that are often neglected.
 - Does not explicitly acknowledge the church calendar.
-- Does not read the New Testament at all.
+- Does not read the New Testament.
 
 
 
