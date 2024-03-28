@@ -1,4 +1,4 @@
----
+F---
 title: Ten Minute Bible Talks Bible Reading Plans
 date: 2023-01-12
 lastmod: 2024-03-28
@@ -97,6 +97,16 @@ In the [introductory email](https://tenminutebibletalks.com/about/2024-bible-rea
 > Similarly, the history books take on a new purpose: How do we explain our situation away from the land, enslaved under foreign occupation? How do we make sense of our ancestors’ failures and renew our covenant relationship with God? How do go forward when our attempts at renewal fail?
 >
 > **These questions are not far from our own.**
+
+
+## My Thoughts
+
+- Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.)
+- Good to explore books that are often neglected.
+- Does not explicitly acknowledge the church calendar.
+- Does not read the New Testament at all.
+
+
 
 
 
