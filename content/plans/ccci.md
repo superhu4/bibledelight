@@ -1,7 +1,7 @@
 ---
 title: "Our Church's Plan"
 date: 2023-03-06
-lastmod: 2023-08-18 
+lastmod: 2024-04-29 
 tags: [church, five days]
 draft: false
 
@@ -15,7 +15,7 @@ When I was developing our church's Bible reading plan, I had the following goals
 
 2. Thoughtfully group books together by audience, author, timeline, etc.[^1]
 
-3. Satisfy three natural calendars (school, church, and solar) by starting in the Old Testament in late-summer (school) in order to lead up to messianic prophecies in Advent (church) which in turn naturally flows into the Gospels, Acts, and the epistles starting in January (solar). (In terms of preaching, I will generally focus one Gospel at the beginning of each year based on a four-year cycle (Years A, B, C, D).[^2])
+3. Satisfy three natural calendars (school, church, and solar) by starting in the Old Testament in late-summer (school) in order to lead up to messianic prophecies in Advent (church) which in turn naturally flows into the Gospels, Acts, and the epistles starting in January (solar). (In terms of preaching, I will generally focus on one Gospel at the beginning of each year based on a four-year cycle (Years A, B, C, D).[^2])
 
 ## Basic Structure
 
@@ -23,7 +23,11 @@ Supporting these goals, I use the following structures to aid in creation of the
 
 - January until Holy Week: Gospels (and related New Testament books[^3]).
 - Holy Week - Use plans from [Bible.com](https://my.bible.com/search/plans?q=lent) (including [this plan](https://my.bible.com/reading-plans/11399-jesuss-path-to-the-cross-an-8-day-devotional/day/1)) or from the [American Bible Society](https://americanbible.org/resources/daily-bible-reading/).
-- After Holy Week through May: Acts and Epistles
+- After Holy Week through May: Acts and Epistles with the following four-year cycle (which follows the Gospel four-year cycle):
+  - Year A: Romans and 1 Corinthians 
+  - Year B: 2 Corinthians to Colossians
+  - Year C: 1 Thessalonians to Philemon
+  - Year D: Revelation
 - June and July: Freestyle (Old Testament wisdom and / or other Scripture)
 - August through Christmas week: Pentateuch, History, and Prophets grouped on five-year rotation:[^4]
   - Year A: Genesis, Ezra through Esther, and Isaiah
