@@ -1,6 +1,7 @@
 ---
 title: "Books to Motivate and Equip in the Original Languages"
 date: 2022-12-04
+lastmod: 2024-06-28
 tags: [book]
 url:
 draft: false
@@ -8,6 +9,8 @@ draft: false
 
 ## Motivate
 - [The Rewards of Learning Greek and Hebrew: Discovering the Richness of the Bible in Its Original Languages](https://amzn.to/3Hap2Zx)
+
+- [Why Learn Greek and Hebrew?: The Pastoral Value Of The Biblical Languages](https://www.desiringgod.org/articles/why-learn-greek-and-hebrew) 
 
 ## Equip
 

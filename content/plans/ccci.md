@@ -1,7 +1,7 @@
 ---
 title: "Our Church's Plan"
 date: 2023-03-06
-lastmod: 2024-04-29 
+lastmod: 2024-07-11
 tags: [church, five days]
 draft: false
 
@@ -77,9 +77,31 @@ Acts and then 2 Corinthians through Colossians:
 
 *Chose a series of Scriptures from an Advent Bible reading plan such as [this](https://www.bible.com/reading-plans/22859-the-coming-of-the-messiah/day/5).*
 
+## 2025 Example
+
+### January 1 through May 30
+
+Following the guidance above, 2025 will be Year C for the Gospels and thus begin with the Gospel of Luke. The related New Testament books (following the [the Ten Minute Bible Talks Reading Plan 2023](https://bibledelight.com/plans/ten-minute/) include Acts 1-14, Galatians, Acts 15-18, 1 & 2 Thessalonians, Acts 19, 1 & 2 Corinthians, Acts 20, Romans, Acts 21-24, Colossians, Philemon, Ephesians, Philippians, Acts 25-28, Titus, 1 & 2 Timothy. 
+
+Two notes:
+
+1. Although we would typically read Acts and various epistles following Easter, reading Luke and his related book (Acts) with the Pauline epistles inserted at the appropriate places will make for a more cohesive experience.)
+2. Because we're interspersing Acts, there are no graphics (as with 2024) from [BibleReadingPlanGenerator.com](https://biblereadingplangenerator.com).
+
+### June 1 through July 31
+
+During summer, we'll read Job and James as we haven't read them recently. In addition, the 47 total chapters in Job and James fit well within the 44 weekdays.
+
+[![Job and James](/2025-1.png)](https://www.biblereadingplangenerator.com/?start=2025-06-02&total=60&format=list&order=traditional&daysofweek=2,3,4,5,6&books=JOB,HEB,JAS&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0&includeurls=0&urlsite=biblegateway&urlversion=NIV)
+
+### August 1 through December 19
+
+2024 will be Year E for the Old Testament and thus include with Deuteronomy, 1 Chronicles, and Joel through Malachi.
+
+[![Deuteronomy, 1 Chronicles, and Joel through Malachi](/2025-2.png)](https://www.biblereadingplangenerator.com/?start=2025-08-01&total=141&format=books&order=traditional&daysofweek=2,3,4,5,6&books=DEU,1CH,JOL,AMO,OBA,JON,MIC,NAM,HAB,ZEP,HAG,ZEC,MAL&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0&includeurls=0&urlsite=biblegateway&urlversion=NIV)
 
 
-[^1]: I got this idea from [Westminster Presbyterian Church's](https://www.solochristo.org)'s 4-year Bible reading plan ([PDF](https://static1.squarespace.com/static/5294f36fe4b0f720804a928a/t/5c3e4f8b352f53dc97940a10/1547587468295/2019-2022+Bible+Reading+Plan+v.+1.1.pdf)): "The New Testament features a Gospel, followed by the books most associated with that Gospel. So Matthew’s Gospel, written with a Jewish audience in mind, is followed by the most Hebraic books of the NT, Hebrews and James. Mark’s Gospel, written under Peter’s authority, is followed by Peter’s two letters and Jude. Luke travelled with Paul, so his Gospel precedes Paul’s letters, and finally, John’s writings are grouped together." A similar approach is taken by the [Ten Minute Bible Talks Reading Plan 2023](https://bibledelight.com/plans/ten-minute/).
+[^1]: I got this idea from [Westminster Presbyterian Church's](https://www.solochristo.org)'s 4-year Bible reading plan from 2019 to 2022: "The New Testament features a Gospel, followed by the books most associated with that Gospel. So Matthew’s Gospel, written with a Jewish audience in mind, is followed by the most Hebraic books of the NT, Hebrews and James. Mark’s Gospel, written under Peter’s authority, is followed by Peter’s two letters and Jude. Luke travelled with Paul, so his Gospel precedes Paul’s letters, and finally, John’s writings are grouped together." A similar approach is taken by the [Ten Minute Bible Talks Reading Plan 2023](https://bibledelight.com/plans/ten-minute/).
 
 [^2]: This idea was adopted from the [Narrative Lectionary](https://www.workingpreacher.org/home-narrative-lectionary).
 
