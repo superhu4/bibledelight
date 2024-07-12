@@ -81,7 +81,7 @@ Acts and then 2 Corinthians through Colossians:
 
 ### January 1 through May 30
 
-Following the guidance above, 2025 will be Year C for the Gospels and thus begin with the Gospel of Luke. The related New Testament books (following the [the Ten Minute Bible Talks Reading Plan 2023](https://bibledelight.com/plans/ten-minute/) include Acts 1-14, Galatians, Acts 15-18, 1 & 2 Thessalonians, Acts 19, 1 & 2 Corinthians, Acts 20, Romans, Acts 21-24, Colossians, Philemon, Ephesians, Philippians, Acts 25-28, Titus, 1 & 2 Timothy. 
+Following the guidance above, 2025 will be Year C for the Gospels and thus begin with the Gospel of Luke. The related New Testament books (following the [the Ten Minute Bible Talks Reading Plan 2023](https://bibledelight.com/plans/ten-minute/)) include Acts 1-14, Galatians, Acts 15-18, 1 & 2 Thessalonians, Acts 19, 1 & 2 Corinthians, Acts 20, Romans, Acts 21-24, Colossians, Philemon, Ephesians, Philippians, Acts 25-28, Titus, 1 & 2 Timothy. 
 
 Two notes:
 
