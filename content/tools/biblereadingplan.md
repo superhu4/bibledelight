@@ -6,7 +6,7 @@ url:
 draft: false
 ---
 
-It often helpful to have a short commentary and suggested questions on a text. [the Bible Reading Plan] provides both.
+It often helpful to have a short commentary and suggested questions on a text. [The Bible Reading Plan](https://www.biblereadingplan.org) provides both.
 
 Here’s how they describe their beginning and goal:
 
