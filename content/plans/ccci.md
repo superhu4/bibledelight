@@ -96,7 +96,7 @@ During summer, we'll read Job and James as we haven't read them recently. In add
 
 ### August 1 through December 19
 
-2024 will be Year E for the Old Testament and thus include with Deuteronomy, 1 Chronicles, and Joel through Malachi.
+2025 will be Year E for the Old Testament and thus include with Deuteronomy, 1 Chronicles, and Joel through Malachi.
 
 [![Deuteronomy, 1 Chronicles, and Joel through Malachi](/2025-2.png)](https://www.biblereadingplangenerator.com/?start=2025-08-01&total=141&format=books&order=traditional&daysofweek=2,3,4,5,6&books=DEU,1CH,JOL,AMO,OBA,JON,MIC,NAM,HAB,ZEP,HAG,ZEC,MAL&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0&includeurls=0&urlsite=biblegateway&urlversion=NIV)
 
