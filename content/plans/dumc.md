@@ -18,7 +18,7 @@ draft: false
 - Thoughtful arrangement of readings
   - For example, when reading the Psalms in 2024, “[w]here  possible, David’s psalms are generally set in the context of the history of Israel and the events of his life, thereby giving us a rare glimpse into both the outward actions and inner life of David.” ([source](https://dumc.my/wp-content/uploads/BRP2024_A5_Flyer_SinglePg.pdf))
   - Further, a “special Easter week reading will feature passages in the Psalms quoted by Jesus.” (Ibid.) (Note: This is not the case in 2025.)
-  - 2025’s plan is a journey through the narratives of the Bible. (Similar to [5 Day Bible Narratives](narratives/)?)
+  - 2025’s plan is a journey through the narratives of the Bible. (Similar to [5 Day Bible Narratives](../narratives/)?)
   - 2025 looks to include excerpts from Christian history on Saturdays.
 
 
