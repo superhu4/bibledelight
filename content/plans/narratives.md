@@ -1,7 +1,7 @@
 ---
 title: 5 Day Bible Narratives
 date: 2023-10-02
-lastMod: 2023-10-02
+lastMod: 2024-12-16
 tags: [one year, five days, devotional]
 url:
 draft: false
@@ -28,4 +28,4 @@ draft: false
 - Good option to cover the narrative of the Bible.
 - Manageable amount of text to read each day.
 - Many supporting resources which can be used in a variety of contexts.
-- Doesn't follow the church calendar.
+- Does not follow the church calendar.
