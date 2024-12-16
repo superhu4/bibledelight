@@ -1,7 +1,7 @@
 ---
 title: An Untraditional Bible Reading Plan
 date: 2023-08-01
-lastmod: 2023-08-01
+lastmod: 2024-12-16
 tags: [one month]
 url:
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 - Exposure to valuable resources
 - Easy to use with someone else
-- Support joy in God's word
+- Supports joy in God's word
 - Allows lingering in certain places
 - Keeps the biblical text saturating life 
 

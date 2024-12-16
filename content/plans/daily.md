@@ -2,7 +2,7 @@
 title: Daily Scripture - 365 Days to Read Through the Whole Bible
 date: 2024-12-16
 lastMod: 2024-12-16
-tags: [one year, video]
+tags: [one year, video, through]
 url:
 draft: false
 ---
