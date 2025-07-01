@@ -8,7 +8,7 @@ url:
 draft: false
 ---
 
-Searching for Bible reading plans will quickly yield a [plan](http://www.edginet.org/mcheyne/year_classic_single_letter.pdf) (PDF) developed by a young 19th c. Scottish pastor named [Robert Murray M'Cheyne](http://www.mcheyne.info) who wrote:
+Searching for Bible reading plans will quickly yield a [plan](https://s3.amazonaws.com/mychurchwebsite/c3319/mccheyne_reading_plan.pdf) (PDF) developed by a young 19th c. Scottish pastor named [Robert Murray M'Cheyne](http://www.mcheyne.info) who wrote:
 
 > "It has long been in my mind to prepare a scheme of Scripture reading, in which as many as were made willing by God might agree, so that the whole Bible might be read once by you in the year, and all might be feeding in the same portion of the green pasture at the same time." ([source](http://www.mcheyne.info/calendar.pdf) (PDF))
 
