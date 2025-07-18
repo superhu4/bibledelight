@@ -42,7 +42,7 @@ The [Ten Minute Bible Talks Bible Reading Plan 2023](https://tenminutebibletalks
   - Revelation
   - 1, 2, 3 John
   - John
-- Helpful [10-minute podcast](https://tenminutebibletalks.com/episodes) that explains and applies that day's text
+- Helpful [10-minute podcast](https://tenminutebibletalks.com/) that explains and applies that day's text
 
 ## My Thoughts
 - Good weekly rhythm with concise and applicable podcast. (Reminds me of the [Join the Journey](/plans/join) podcast.)

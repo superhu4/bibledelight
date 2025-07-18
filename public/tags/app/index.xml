@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>App on Bible Delight</title>
+    <link>http://localhost:1313/tags/app/</link>
+    <description>Recent content in App on Bible Delight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ReadingPlan for iPhone/iPad</title>
+      <link>http://localhost:1313/tools/readingplan/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/readingplan/</guid>
+      <description>&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;ldquo;&amp;lt;a href=&amp;#34;https://pricejh.com/readingplan/&amp;#34;&amp;gt;ReadingPlan&amp;lt;/a&amp;gt; helps you track your progress as you read through the Bible. You can start a plan at any time, progressing at your own rate or on the schedule dictated by the plan. You can optionally link to an online bible site to see the plan&amp;amp;rsquo;s readings in the application&amp;amp;rsquo;s built-in web view, or open the reading in one of many native bible apps.&amp;amp;rdquo;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;From 2016 to 2020, we had a church app. It had sermons, events, and our Bible reading plan. However, the app never got traction and the company behind it phased out support for the app platform.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Further, after reading &amp;lt;a href=&amp;#34;https://www.nucleus.church/blog/church-app/&amp;#34;&amp;gt;this article&amp;lt;/a&amp;gt;, I thought it best to sunset the app.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;However, I still missed the ability to track Bible reading.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;https://pricejh.com/readingplan/&amp;#34;&amp;gt;ReadingPlan&amp;lt;/a&amp;gt; does a great job of filling that niche as it allows churches and organizations to upload their own plans by emailing the plan (uniquely formatted) to the app creator.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;In addition to the &amp;lt;a href=&amp;#34;https://pricejh.com/readingplan/&amp;#34;&amp;gt;ReadingPlan&amp;lt;/a&amp;gt; app itself, the ReadingPlan website hosts &amp;lt;a href=&amp;#34;https://pricejh.com/readingplan/cplans/all_plans.html&amp;#34;&amp;gt;numerous plans&amp;lt;/a&amp;gt; which can be added to the app or just browsed to get ideas and inspiration for your own Bible reading plan.&amp;lt;/p&amp;gt;
+</description> 
+      <content:encoded><![CDATA[<blockquote>
+<p>&ldquo;<a href="https://pricejh.com/readingplan/">ReadingPlan</a> helps you track your progress as you read through the Bible. You can start a plan at any time, progressing at your own rate or on the schedule dictated by the plan. You can optionally link to an online bible site to see the plan&rsquo;s readings in the application&rsquo;s built-in web view, or open the reading in one of many native bible apps.&rdquo;</p></blockquote>
+<p>From 2016 to 2020, we had a church app. It had sermons, events, and our Bible reading plan. However, the app never got traction and the company behind it phased out support for the app platform.</p>
+<p>Further, after reading <a href="https://www.nucleus.church/blog/church-app/">this article</a>, I thought it best to sunset the app.</p>
+<p>However, I still missed the ability to track Bible reading.</p>
+<p><a href="https://pricejh.com/readingplan/">ReadingPlan</a> does a great job of filling that niche as it allows churches and organizations to upload their own plans by emailing the plan (uniquely formatted) to the app creator.</p>
+<p>In addition to the <a href="https://pricejh.com/readingplan/">ReadingPlan</a> app itself, the ReadingPlan website hosts <a href="https://pricejh.com/readingplan/cplans/all_plans.html">numerous plans</a> which can be added to the app or just browsed to get ideas and inspiration for your own Bible reading plan.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

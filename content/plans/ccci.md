@@ -1,7 +1,7 @@
 ---
 title: "Our Church's Plan"
 date: 2023-03-06
-lastmod: 2024-07-11
+lastmod: 2025-07-17
 tags: [church, five days]
 draft: false
 
@@ -21,20 +21,33 @@ When I was developing our church's Bible reading plan, I had the following goals
 
 Supporting these goals, I use the following structures to aid in creation of the plan:
 
-- January until Holy Week: Gospels (and related New Testament books[^3]).
-- Holy Week - Use plans from [Bible.com](https://my.bible.com/search/plans?q=lent) (including [this plan](https://my.bible.com/reading-plans/11399-jesuss-path-to-the-cross-an-8-day-devotional/day/1)) or from the [American Bible Society](https://americanbible.org/resources/daily-bible-reading/).
+- January until Holy Week: Gospels (and related New Testament books[^3]) and other Gospels.
+  - Year A: Matthew, Hebrews, and James
+  - Year B: Mark, 1 & 2 Peter, Jude
+  - Year C: Luke and other Pauline Epistles not being read that year
+  - Year D: John, 1, 2, 3 John, Revelation
+- Holy Week - Use plans from [Bible.com](https://my.bible.com/search/plans?q=lent) (including [this plan](https://my.bible.com/reading-plans/11399-jesuss-path-to-the-cross-an-8-day-devotional/day/1)) or from the [American Bible Society](https://americanbible.org/resources/daily-bible-reading/). Or, one may simply follow the Holy Week narrative through that year's Gospel.
 - After Holy Week through May: Acts and Epistles with the following four-year cycle (which follows the Gospel four-year cycle):
-  - Year A: Romans and 1 Corinthians 
-  - Year B: 2 Corinthians to Colossians
-  - Year C: 1 Thessalonians to Philemon
-  - Year D: Revelation
-- June and July: Freestyle (Old Testament wisdom and / or other Scripture)
-- August through Christmas week: Pentateuch, History, and Prophets grouped on five-year rotation:[^4]
-  - Year A: Genesis, Ezra through Esther, and Isaiah
-  - Year B: Exodus, 1 Kings (or 2 Kings), and Ezekiel
-  - Year C: Leviticus, 1 Samuel (or 2 Samuel), Jeremiah, and Lamentations
-  - Year D: Numbers, Joshua, Judges, Ruth, Daniel, and Hosea
-  - Year E: Deuteronomy, 1 Chronicles (or 2 Chronicles), and Joel through Malachi.
+  - Acts
+  	- Year A: Acts 1:1-5:42
+	- Year B: Acts 6:1-12:25
+	- Year C: Acts 13:1-21:16 (Paul’s Missionary Journeys)
+	- Year D: Acts 21:17-28:31 (Paul’s Imprisonment)
+  - Epistles
+  	- Year A: Romans and 1 Corinthians 
+  	- Year B: 2 Corinthians to Colossians
+  	- Year C: 1 Thessalonians to Philemon
+  	- Year D: Hebrews to 2 Peter and Jude (Johannine writings of 1-3 John and Revelation are read with Gospel of John earlier in the year.)
+- June: Wisdom
+  -  Year A: Job 1-25
+  -  Year B: Job 26-42
+  -  Year C: Ecclesiastes and Song of Songs
+- July through Christmas week: Pentateuch, History, and Prophets grouped on five-year rotation:[^4]
+  - Year A: Genesis, Joshua, Judges, Ruth, and Isaiah 1-39 (138 chapters)
+  - Year B: Exodus, 1 & 2 Samuel, and Isaiah 40-66 (138 chapters)
+  - Year C: Leviticus, 1 & 2 Kings, Jeremiah, and Lamentations (141 chapters)
+  - Year D: Numbers, Ezra, Nehemiah, Esther, Ezekiel, Jonah, Micah, Nahum, Habakkuk, and Zephaniah (137 chapters)
+  - Year E: Deuteronomy, 1 & 2 Chronicles, Daniel, Haggai, Zechariah, and Malachi (131 chapters)
 - Christmas Week - Similar to Holy Week, use plans from [Bible.com](https://my.bible.com/search/plans?q=advent) or from the [American Bible Society](https://americanbible.org/resources/daily-bible-reading/).
 
 ## 2024 Example
@@ -55,7 +68,7 @@ The plan continues with two other Gospels:
 
 ### Holy Week
 
-*Choose a series of Scriptures from a Lent Bible reading plan [such as this one](https://www.bible.com/en/reading-plans/36377) or [this one](https://my.bible.com/reading-plans/24340-family-holy-week-devotional).*
+*Choose a series of Scriptures from a Lent Bible reading plan [such as this one](https://www.bible.com/en/reading-plans/36377) or [this one](https://my.bible.com/reading-plans/24340-family-holy-week-devotional).* 
 
 ### April 1 through May 31
 
@@ -99,6 +112,58 @@ During summer, we'll read Job and James as we haven't read them recently. In add
 2025 will be Year E for the Old Testament and thus include with Deuteronomy, 1 Chronicles, and Joel through Malachi.
 
 [![Deuteronomy, 1 Chronicles, and Joel through Malachi](/2025-2.png)](https://www.biblereadingplangenerator.com/?start=2025-08-01&total=141&format=books&order=traditional&daysofweek=2,3,4,5,6&books=DEU,1CH,JOL,AMO,OBA,JON,MIC,NAM,HAB,ZEP,HAG,ZEC,MAL&lang=en&logic=chapters&checkbox=1&colors=1&dailypsalm=0&dailyproverb=0&otntoverlap=0&reverse=0&stats=0&dailystats=0&nodates=0&includeurls=0&urlsite=biblegateway&urlversion=NIV)
+
+
+## 2026 Example
+
+### January 1 through March 27
+
+2026 will be Year C for the Gospels and thus begin with the Gospel of John and be followed by other Johannine writings including 1-3 John and Revelation. We'll read the Gospel of Mark before entering Holy Week. 
+
+### Holy Week
+
+Rather than read various Gospels during Holy Week, I've opted to stay in our Gospel and read John 12-20.
+
+### April 6 through May 29
+
+Mostly following the plan (above), we are reading Acts – but starting with Paul's third missionary journey and then continuing to Hebrews through 2 Peter and Jude.
+
+### June
+
+In a departure from the past, we are reading the remaining wisdom books (over a three-year cycle) that are not read during the year: Job, Ecclesiastes, and Song of Songs. In 2026, we'll focus on Ecclesiastes and Song of Songs.
+
+### July 1 through December 17
+
+In order to get through more of the Old Testament, I moved the start date up from August 1 to July 1. I also simplified the readings such that they continue year-after-year. For example, 1 & 2 Samuel are read in Year B, and then 1 & 2 Kings are read in Year C. 
+
+As a result, we'll read Year A: Genesis, Ezra, Nehemiah, Esther, and Isaiah 1-39.
+
+*Note: The plan (above) has us reading Joshua, Judges, Ruth. Because we just read that in 2024, I substituted Ezra, Nehemiah, and Esther.*
+
+### Christmas Week
+
+Similar to Holy Week, I chose excerpts from the Gospel – specifically, Matthew, the Gospel we'll read in 2027.
+
+### The Secondary Readings
+
+We continue to read the Psalms and Proverbs as the secondary reading. However, I've interspersed them as follows:
+
+- [Psalms](https://www.esv.org/resources/esv-global-study-bible/introduction-to-the-psalms/): Book 1: Psalms 1-41
+- [Proverbs](https://www.esv.org/resources/esv-global-study-bible/introduction-to-proverbs/) 1-9
+- Psalms: Book 2: Psalms 42-72
+- Proverbs 10-22
+- Psalms: Book 3: Psalm 73-89
+- Proverbs 22-24
+- Psalms: Book 4: Psalms 90-106
+- Proverbs 25-29
+- Psalms: Book 5: Psalms 107-150
+- Proverbs 30-31
+
+After we read through this, we re-read the Proverbs in October and November.
+
+We conclude the calendar year, but utilizing readings from the [ACNA Sunday lectionary](https://www.lectserve.com/html/sunday/2026-11-29). 
+
+In the future, I plan to continue to use this paradigm for the secondary readings.
 
 
 [^1]: I got this idea from [Westminster Presbyterian Church's](https://www.solochristo.org)'s 4-year Bible reading plan from 2019 to 2022: "The New Testament features a Gospel, followed by the books most associated with that Gospel. So Matthew’s Gospel, written with a Jewish audience in mind, is followed by the most Hebraic books of the NT, Hebrews and James. Mark’s Gospel, written under Peter’s authority, is followed by Peter’s two letters and Jude. Luke travelled with Paul, so his Gospel precedes Paul’s letters, and finally, John’s writings are grouped together." A similar approach is taken by the [Ten Minute Bible Talks Reading Plan 2023](https://bibledelight.com/plans/ten-minute/).

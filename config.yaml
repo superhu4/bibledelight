@@ -2,7 +2,6 @@ baseURL: https://bibledelight.com/
 languageCode: en-us
 title: Bible Delight
 theme: papermod
-paginate: 10
 params:
   description: Lists and evaluates Bible reading plans and related tools and thoughts in Scripture intake.
   datesinlist: 1
@@ -29,8 +28,7 @@ related:
     weight: 10
   threshold: 80
   toLower: false
-      
-      
+
 menu:
   main:
     - identifier: plans
