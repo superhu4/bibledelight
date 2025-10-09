@@ -11,7 +11,7 @@ draft: false
 
 ([source](https://redeemingproductivity.com/macarthur-bible-reading-plan/))
 
-{{ <youtube uV2_RUAZhzU >}}
+{{< youtube uV2_RUAZhzU >}}
 
 ## Feature
 
