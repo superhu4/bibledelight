@@ -118,7 +118,7 @@ During summer, we'll read Job and James as we haven't read them recently. In add
 
 ### January 1 through March 27
 
-2026 will be Year C for the Gospels and thus begin with the Gospel of John and be followed by other Johannine writings including 1-3 John and Revelation. We'll read the Gospel of Mark before entering Holy Week. 
+2026 will be Year D for the Gospels and thus begin with the Gospel of John and be followed by other Johannine writings including 1-3 John and Revelation. We'll read the Gospel of Mark before entering Holy Week. 
 
 ### Holy Week
 
